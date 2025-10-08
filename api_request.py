@@ -81,4 +81,3 @@ tk.Button(root,text = "Buscar Clima", command=on_submit).pack(pady=10)
 #Execução da interface
 root.mainloop()
 
-print("test")
