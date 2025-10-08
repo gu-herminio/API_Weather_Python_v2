@@ -46,13 +46,14 @@ pip install -r requirements.txt
 3 - Create .env with your API Key
 
 4 - Run the app:
+
 ```
 python api_request.py
 ```
 
-5 - Enter the city name in the window and click Search Weather.
+5 - Enter the city name in the window and click "Buscar Clima".
 
-<img width="303" height="180" alt="Captura de tela 2025-10-08 000536" src="https://github.com/user-attachments/assets/2504eb33-ff1c-4b96-b48c-e85c664fa305" />
+<img width="300" height="179" alt="Captura de tela 2025-10-08 002732" src="https://github.com/user-attachments/assets/f015d667-aea2-4434-b02e-c23054409323" />
 
 ---
 
